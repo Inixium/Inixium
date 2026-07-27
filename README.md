@@ -155,11 +155,7 @@ https://github.com/Inixium/PlayNext
 
 Telegram:
 
-@your_username
-
-GitHub:
-
-https://github.com/Inixium
+@inixium
 
 <!--
 **Inixium/Inixium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
