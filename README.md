@@ -1,4 +1,4 @@
-# Игорь — Fullstack Developer
+# Игорь — Fullstack-разработчик
 
 Создаю сайты, веб-приложения и Telegram-ботов.
 
